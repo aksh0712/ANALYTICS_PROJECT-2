@@ -23,4 +23,4 @@ Solution for data pipelines.
     For both the methods a classification report is generated. 
 13) Machine Learning algorithm is applied for better precision, accuracy and recall. 
     a. Decision Tree Algorithm - Fine tuning parameters, feature importance, visualize the decision tree using graphViz package
-    b. Random Forest - visualize the relative importance of features using barplot, tuning parameters
+    b. Random Forest - visualize the relative importance of features using barplot, tuning parameters.
