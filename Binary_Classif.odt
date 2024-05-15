@@ -1,7 +1,7 @@
 digraph Tree {
 node [shape=box] ;
-0 [label="su_attempted <= 0.05\ngini = 0.5\nsamples = 337176\nvalue = [168453, 168723]"] ;
-1 [label="protocol_type <= 0.005\ngini = 0.5\nsamples = 337161\nvalue = [168438, 168723]"] ;
+0 [label="su_attempted <= 0.05\ngini = 0.5\nsamples = 337176\nvalue =[168453, 168723]"] ;
+1 [label="protocol_type <= 0.005\ngini = 0.5\nsamples = 337161\nvalue =[168438, 168723]"] ;
 0 -> 1 [labeldistance=2.5, labelangle=45, headlabel="True"] ;
 3 [label="logged_in <= 0.05\ngini = 0.5\nsamples = 322930\nvalue = [158399, 164531]"] ;
 1 -> 3 ;
